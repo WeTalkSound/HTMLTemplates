@@ -1,0 +1,300 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  /*font-family: 'Days One', sans-serif;
+  font-family: 'Nunito', sans-serif;
+  font-family: 'Hind', sans-serif;
+  font-family: 'Sarpanch', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  background-color: white;*/
+  background: url('https://i.ibb.co/gFf6KyJ/trivbackgroundnew.png');
+  background-size: cover;
+  background-repeat: space;
+  color: black;
+  margin: 8px 4px 0 4px;
+}
+
+@media (max-width: 1000px) {
+  body {
+    background: url('https://i.ibb.co/160CLvs/trivbackground2.png');
+    background-repeat: no-repeat;
+  }
+}
+
+.firstcon {
+  padding-top: 2%;
+  font-size: 36px;
+}
+
+@media (max-width: 1000px) {
+  .firstcon {
+    font-size: 18px;
+  }
+}
+
+.far {
+  margin-top: 40px;
+}
+
+.trivri {
+  width: 450px;
+}
+
+.learnmore-btn {
+  margin-right: 14px;
+}
+
+#title {
+  color: black;
+  padding-bottom: 5px;
+}
+
+@media (max-width: 1024px) {
+  .wtxtralogo {
+    width: 230px;
+  }
+}
+
+.nav-btn {
+  margin-left: 6px;
+  margin-right: 6px;
+}
+
+.nav-btn-col {
+  color: black;
+}
+
+.card-text {
+  font-size: 16px;
+}
+
+@media (max-width: 1000px) {
+  .card-text {
+    font-size: 14px;
+  }
+}
+
+.card-title {
+  font-weight: 600;
+  font-size: 36px;
+}
+
+@media (max-width: 1000px) {
+  .card-title {
+    font-size: 26px;
+  }
+}
+
+.card-body {
+  font-size: 16px;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+@media (max-width: 1000px) {
+  .card-body {
+    font-size: 16px;
+    padding-top: 2%;
+  }
+}
+
+.right-side {
+  color: #000;
+  font-size: 80px;
+}
+
+h1 {
+  font-family: "Montserrat";
+  font-weight: 800;
+  font-size: 200%;
+  line-height: 1;
+}
+
+.container-fluid {
+  padding: 0 12% 5% 12%;
+}
+
+@media (max-width: 1000px) {
+  .container-fluid {
+    padding: 0 5% 5% 5%;
+  }
+}
+
+.navbar {
+  padding: 0 0 4rem;
+}
+
+.navbar-brand {
+  font-weight: 900;
+  font-size: 1.3rem;
+}
+
+.nav-item {
+  padding: 0 6px;
+  color: black
+}
+
+.card-bodytext {
+  padding-top: 2px;
+  padding-bottom: 0;
+}
+
+.card-titletext {
+  font-size: 16px;
+  padding-top: 4px;
+  margin-bottom: 4px
+}
+
+.card-texttext {
+  font-size: 12px;
+  padding-top: 1px;
+}
+
+@media (max-width: 1000px) {
+  .card {
+    width: 10rem;
+  }
+}
+
+@media (max-width: 1000px) {
+  .card-bodytext {
+    padding-top: 2px;
+    padding-bottom: 0;
+  }
+}
+
+@media (max-width: 1000px) {
+  .card-titletext {
+    font-size: 8px;
+    padding-top: 2px;
+    margin-bottom: 2px
+  }
+}
+
+@media (max-width: 1000px) {
+  .card-texttext {
+    font-size: 4px;
+    padding-top: 1px;
+  }
+}
+
+.first-row {
+  padding: 0 12% 4% 12%;
+}
+
+@media (max-width: 1000px) {
+  .first-row {
+    padding: 0 38px 0 38px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .navbar {
+    padding-bottom: 5px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .Group31image {
+    width: 310px;
+    float: none !important;
+  }
+}
+
+@media (max-width: 1000px) {
+  .Group31 {
+    width: 30px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .icon {
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+
+  .firsticon {
+    padding-left: 0;
+    padding-right: 4px;
+  }
+}
+
+.lasticon {
+  padding-left: 4px;
+  padding-right: 0;
+}
+
+.container2 {
+  padding: 4% 12% 6% 12%;
+}
+
+@media (max-width: 1000px) {
+  .container2 {
+    padding: 4% 38px 4% 38px;
+  }
+
+  .con2 {
+    padding: 0 0 0 0;
+  }
+}
+
+.p1 {
+  margin-bottom: 2px;
+  font-size: 36px;
+  font-weight: 600;
+}
+
+.p2 {
+  font-size: 24px;
+}
+
+@media (max-width: 1000px) {
+  .p1 {
+    margin-bottom: 2px;
+    font-size: 15px;
+  }
+
+  .p2 {
+    font-size: 9px;
+  }
+}
+
+.yeahtext {
+  padding-top: 36px;
+}
+
+@media (max-width: 1000px) {
+  .yeahtext {
+    padding-top: 0;
+  }
+}
+
+.tenitext {
+  padding-top:;
+}
+
+@media (max-width: 1000px) {
+  .tenitext {
+    padding-top: 6%;
+  }
+}
+
+.float2 {
+  margin-right: 14px;
+}
+
+.footer {
+  font-size: 14px;
+  text-align: center;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  position: fixed;
+  font-weight: 400;
+  color: black;
+  background-color: #FFFF44;
+}
+
+.lol {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
