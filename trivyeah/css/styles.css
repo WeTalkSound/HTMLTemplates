@@ -1,12 +1,11 @@
+:root {
+  --primary: var(--yellow);
+  --yellow: #FFFF44;
+  --black: #000;
+}
+
 body {
   font-family: 'Poppins', sans-serif;
-  /*font-family: 'Days One', sans-serif;
-  font-family: 'Nunito', sans-serif;
-  font-family: 'Hind', sans-serif;
-  font-family: 'Sarpanch', sans-serif;
-  font-family: 'Montserrat', sans-serif;
-  font-family: 'Raleway', sans-serif;
-  background-color: white;*/
   background: url('https://i.ibb.co/gFf6KyJ/trivbackgroundnew.png');
   background-size: cover;
   background-repeat: space;
@@ -19,6 +18,20 @@ body {
     background: url('https://i.ibb.co/160CLvs/trivbackground2.png');
     background-repeat: no-repeat;
   }
+}
+
+.btn {
+  border-radius: 0;
+  border: 1px solid;
+}
+
+.btn-primary {
+  background-color: var(--primary);
+  color:var(--black);
+}
+
+.primary-text {
+  color: var(--primary);
 }
 
 .firstcon {
@@ -121,7 +134,7 @@ h1 {
 }
 
 .navbar {
-  padding: 0 0 4rem;
+  /* padding: 0 0 4rem; */
 }
 
 .navbar-brand {
@@ -151,9 +164,7 @@ h1 {
 }
 
 @media (max-width: 1000px) {
-  .card {
-    width: 10rem;
-  }
+  
 }
 
 @media (max-width: 1000px) {
